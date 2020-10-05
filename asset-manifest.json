@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bennyuniverse/static/css/main.bf3baa33.chunk.css",
+    "main.js": "/bennyuniverse/static/js/main.f8d13e37.chunk.js",
+    "main.js.map": "/bennyuniverse/static/js/main.f8d13e37.chunk.js.map",
+    "runtime-main.js": "/bennyuniverse/static/js/runtime-main.c1e3df4e.js",
+    "runtime-main.js.map": "/bennyuniverse/static/js/runtime-main.c1e3df4e.js.map",
+    "static/js/2.2e68f8ae.chunk.js": "/bennyuniverse/static/js/2.2e68f8ae.chunk.js",
+    "static/js/2.2e68f8ae.chunk.js.map": "/bennyuniverse/static/js/2.2e68f8ae.chunk.js.map",
+    "index.html": "/bennyuniverse/index.html",
+    "precache-manifest.7b5fd50a9404687875ba43e0d03e1408.js": "/bennyuniverse/precache-manifest.7b5fd50a9404687875ba43e0d03e1408.js",
+    "service-worker.js": "/bennyuniverse/service-worker.js",
+    "static/css/main.bf3baa33.chunk.css.map": "/bennyuniverse/static/css/main.bf3baa33.chunk.css.map",
+    "static/js/2.2e68f8ae.chunk.js.LICENSE.txt": "/bennyuniverse/static/js/2.2e68f8ae.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/bennyuniverse/static/media/logo.d846540c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1e3df4e.js",
+    "static/js/2.2e68f8ae.chunk.js",
+    "static/css/main.bf3baa33.chunk.css",
+    "static/js/main.f8d13e37.chunk.js"
+  ]
+}
